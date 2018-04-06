@@ -1,5 +1,14 @@
-# open-for-discourse
+# Open for Discourse
 We are open for discourse! Imagining and creating public spaces, for public use, by public means.
+
+---
+
+### Figma Files
+You can view our Figma design files at the links below.
+
+**Interface**: https://www.figma.com/file/HFgadXneFjR3KIILdxHsdhnH/Interface.
+
+---
 
 An initial iteration of this project is underway in Brown 307. We are attempting to transform this space into a venue for discourse through spatial and design interventions. Using pink tape we have demarcated areas of conversation, inviting all to participate. We are posing questions on paper and on a whiteboard in order to initiate dialogue. Additionally, We have connected a Raspberry Pi to the TV in 307 in an attempt to create a public display board. Right now, there is an open [are.na channel](https://www.are.na/open-for-discourse/mica-gd-open-discourse-1518547783), which will soon be updating content in real time. 
 
